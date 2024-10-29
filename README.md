@@ -1,9 +1,5 @@
 # Application Name: E-commerce Demo Application
 
-## Team Members:
-- **Student 1**: Jay Descalsota
-- **Student 2**: Prince Caneba
-
 ## User Credentials:
 
 ### Admin User:
