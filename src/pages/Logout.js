@@ -10,7 +10,7 @@ export default function Logout() {
 
 	useEffect(() => {
 		unsetUser();
-	},[])
+	},[]);
 	
 	return(
 		<Navigate to='/login' />
